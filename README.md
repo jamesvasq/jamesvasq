@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jamesvasq
-- 👀 I’m interested in ... Problem solving, 3d graphics, UX
+- 👀 I’m interested in ... Problem solving, 3d Graphics, UX
 - 🌱 I’m currently learning ... C++, Python, Fullstack Web Development
 - 📫 How to reach me ... email: jvas197@wgu.edu
 
